@@ -1,0 +1,13 @@
+.section {
+    margin-bottom: 10px;
+}
+
+.section__title {
+    margin-bottom: 2px;
+}
+
+.section__content {}
+
+button {
+    padding: 12px;
+}
